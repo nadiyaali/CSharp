@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kD9oz2RCfp+GIt29c7LRsScE64eyS9yAAliHX9DmCF3dtrB/PcObJaiePSlNu8sGGjL5sS0pezRHK+IeephaUQ==",
+  "dgSpecHash": "nQAcFpIXCuKeKu+H4l+soyoINr9EHU4dMOK8/9kCLC3x93v0tdtpBL8uR84asLfd80R1IoxzX2BjVshSc4dLgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A\\source\\repos\\WebAppAzureSqlServerSln\\WebAppAzureSqlServer\\WebAppAzureSqlServer.csproj",
+  "projectFilePath": "C:\\Users\\A\\C# Practice\\Projects\\WebAppAzureSqlServerSln\\WebAppAzureSqlServer\\WebAppAzureSqlServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\A\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

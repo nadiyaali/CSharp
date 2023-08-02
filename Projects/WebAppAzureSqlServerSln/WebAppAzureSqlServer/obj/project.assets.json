@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A\\source\\repos\\WebAppAzureSqlServerSln\\WebAppAzureSqlServer\\WebAppAzureSqlServer.csproj",
+      "projectUniqueName": "C:\\Users\\A\\C# Practice\\Projects\\WebAppAzureSqlServerSln\\WebAppAzureSqlServer\\WebAppAzureSqlServer.csproj",
       "projectName": "WebAppAzureSqlServer",
-      "projectPath": "C:\\Users\\A\\source\\repos\\WebAppAzureSqlServerSln\\WebAppAzureSqlServer\\WebAppAzureSqlServer.csproj",
+      "projectPath": "C:\\Users\\A\\C# Practice\\Projects\\WebAppAzureSqlServerSln\\WebAppAzureSqlServer\\WebAppAzureSqlServer.csproj",
       "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A\\source\\repos\\WebAppAzureSqlServerSln\\WebAppAzureSqlServer\\obj\\",
+      "outputPath": "C:\\Users\\A\\C# Practice\\Projects\\WebAppAzureSqlServerSln\\WebAppAzureSqlServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",

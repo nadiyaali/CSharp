@@ -15,8 +15,9 @@ namespace WebAppAzureSqlServer.Service
 
 
         private static string db_source = "secondsqlserver.database.windows.net";
-        private static string db_user = "nadia";
-        private static string db_password = "Heidelbergwest1";
+        // Add user name and password here
+        private static string db_user = "";
+        private static string db_password = "";
         private static string db_database = "secondsqlserverdb";
 
 
