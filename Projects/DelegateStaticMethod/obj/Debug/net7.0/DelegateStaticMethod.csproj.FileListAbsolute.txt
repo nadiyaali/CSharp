@@ -1,0 +1,14 @@
+C:\Users\A\CsharpProjects\DelegateStaticMethod\bin\Debug\net7.0\DelegateStaticMethod.exe
+C:\Users\A\CsharpProjects\DelegateStaticMethod\bin\Debug\net7.0\DelegateStaticMethod.deps.json
+C:\Users\A\CsharpProjects\DelegateStaticMethod\bin\Debug\net7.0\DelegateStaticMethod.runtimeconfig.json
+C:\Users\A\CsharpProjects\DelegateStaticMethod\bin\Debug\net7.0\DelegateStaticMethod.dll
+C:\Users\A\CsharpProjects\DelegateStaticMethod\bin\Debug\net7.0\DelegateStaticMethod.pdb
+C:\Users\A\CsharpProjects\DelegateStaticMethod\obj\Debug\net7.0\DelegateStaticMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\CsharpProjects\DelegateStaticMethod\obj\Debug\net7.0\DelegateStaticMethod.AssemblyInfoInputs.cache
+C:\Users\A\CsharpProjects\DelegateStaticMethod\obj\Debug\net7.0\DelegateStaticMethod.AssemblyInfo.cs
+C:\Users\A\CsharpProjects\DelegateStaticMethod\obj\Debug\net7.0\DelegateStaticMethod.csproj.CoreCompileInputs.cache
+C:\Users\A\CsharpProjects\DelegateStaticMethod\obj\Debug\net7.0\DelegateStaticMethod.dll
+C:\Users\A\CsharpProjects\DelegateStaticMethod\obj\Debug\net7.0\refint\DelegateStaticMethod.dll
+C:\Users\A\CsharpProjects\DelegateStaticMethod\obj\Debug\net7.0\DelegateStaticMethod.pdb
+C:\Users\A\CsharpProjects\DelegateStaticMethod\obj\Debug\net7.0\DelegateStaticMethod.genruntimeconfig.cache
+C:\Users\A\CsharpProjects\DelegateStaticMethod\obj\Debug\net7.0\ref\DelegateStaticMethod.dll
