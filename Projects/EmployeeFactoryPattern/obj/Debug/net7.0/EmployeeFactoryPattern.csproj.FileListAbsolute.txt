@@ -1,0 +1,14 @@
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\bin\Debug\net7.0\EmployeeFactoryPattern.exe
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\bin\Debug\net7.0\EmployeeFactoryPattern.deps.json
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\bin\Debug\net7.0\EmployeeFactoryPattern.runtimeconfig.json
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\bin\Debug\net7.0\EmployeeFactoryPattern.dll
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\bin\Debug\net7.0\EmployeeFactoryPattern.pdb
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\obj\Debug\net7.0\EmployeeFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\obj\Debug\net7.0\EmployeeFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\obj\Debug\net7.0\EmployeeFactoryPattern.AssemblyInfo.cs
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\obj\Debug\net7.0\EmployeeFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\obj\Debug\net7.0\EmployeeFactoryPattern.dll
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\obj\Debug\net7.0\refint\EmployeeFactoryPattern.dll
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\obj\Debug\net7.0\EmployeeFactoryPattern.pdb
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\obj\Debug\net7.0\EmployeeFactoryPattern.genruntimeconfig.cache
+C:\Users\A\CsharpProjects\EmployeeFactoryPattern\obj\Debug\net7.0\ref\EmployeeFactoryPattern.dll
